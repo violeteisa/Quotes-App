@@ -1,0 +1,39 @@
+
+
+
+h1{
+    margin: 30px ;
+    color: #9846e4;
+    font-size: 90px;
+    padding: 20px 0px;
+    border-radius: 90px;
+    font-family: Playfair Display;
+}
+p.press{
+    color: #002;
+    font-size: 23px;
+    
+}
+button{
+    color: #eee;
+    padding: 30px 50px;
+    margin: 30px;
+    background-color: #9846e4;
+    border-radius: 30px;
+    border: none;
+    font-size: 20px;
+    font-family: Playfair Display;
+    
+}
+button:hover{
+    background-color: #eee;
+    color: #9846e4;
+}
+#author,
+#quote{
+    font-family: Sevillana;
+    font-size: 25px;
+    margin: 10px;
+    color: #000;
+    padding: 20px;
+}
